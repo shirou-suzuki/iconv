@@ -1,7 +1,7 @@
 /*
  * iconv_test.c
  *
- *  Created on: 2021/09/18
+ *  Created on: 2022/10/29
  *      Author: shiro
  *      iconvsample.c
  *
@@ -17,8 +17,7 @@
 
 int main (int argc, char **argv) {
 
-        /* 変数定義
-         */
+        /* 変数定義 */
         iconv_t ic;
         char    str_in[MYBUFSZ+1];
         char    str_out[MYBUFSZ+1];
