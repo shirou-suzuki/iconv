@@ -1,7 +1,7 @@
 /*
  * iconv_test.c
  *
- *  Created on: 2022/10/29
+ *  Created on: 2000/10/29
  *      Author: shiro
  *      iconvsample.c
  *
